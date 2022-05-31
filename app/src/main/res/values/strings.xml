@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practice7</string>
+    <string name="auth_failed" />
+    <string name="firebase_status_fmt" />
+    <string name="emailpassword_status_fmt" />
+    <string name="sign_out" />
+</resources>
